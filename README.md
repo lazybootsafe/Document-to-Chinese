@@ -1,7 +1,7 @@
-# OWASP-to-Chinese
-### Translate OWASP Project into Chinese
+# Document-to-Chinese
+### Translate OWASP Project and some Document into Chinese
 
-这个项目里是翻译自己使用的诸如备忘录(cheatsheet)，核对表(Checklist)，报告(report)等文件。
+这个项目里是翻译自己使用的诸如备忘录(cheatsheet)，核对表(Checklist)，报告(report)，合同（comtract）等文件。
 docx格式是方便打印，打印成纸质做个mark比较方便。我本人有这种测试习惯。其中docx是wps编辑的，
 office word不一定兼容。
 
@@ -13,6 +13,10 @@ office word不一定兼容。
 
 ```
 OWASPtoCHEINESE
+  |
+  +---Comtract                                          //渗透测试相关合同
+  |     |
+  |     +---渗透测试授权合同--简单版.doc
   |
   +---PenetrationTestExecutionStandards                //ptes渗透测试执行标准之修改版
   |     |
@@ -39,6 +43,7 @@ OWASPtoCHEINESE
 * [x] web应用安全测试核对表
 * [x] 移动安全测试备忘录
 * [x] PTES渗透测试执行标准
+* [x] 渗透测试授权合同
 * [x] ...
 
 原本文件来源
