@@ -17,6 +17,8 @@ OWASPtoCHEINESE
   +---Comtract                                          //渗透测试相关合同
   |     |
   |     +---渗透测试授权合同--简单版.doc
+  |     |
+  |     +---APP渗透测试方案.md
   |
   +---PenetrationTestExecutionStandards                //ptes渗透测试执行标准之修改版
   |     |
@@ -44,6 +46,7 @@ OWASPtoCHEINESE
 * [x] 移动安全测试备忘录
 * [x] PTES渗透测试执行标准
 * [x] 渗透测试授权合同
+* [x] APP渗透测试方案
 * [x] ...
 
 原本文件来源
